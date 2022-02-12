@@ -1,1 +1,1 @@
-# DashBoard-AccuSoft: HTML-CSS-Resposivo
+# DashBoard-AccuSoft: HTML-CSS-Responsivo
